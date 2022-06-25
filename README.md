@@ -1,5 +1,5 @@
 ## Mateus Dayrell
-- 🏬 I’m currently working as an intern at <a href="https://unimontes.br/">Unimontes</a>
+- 🏬 I’m currently working as an intern at <a target="_blank" href="https://unimontes.br/">Unimontes</a>
 - 📓 I’m currently learning typescript
 - 🎖️ Advanced english
 <div align="center">
