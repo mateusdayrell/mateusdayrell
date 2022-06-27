@@ -1,6 +1,7 @@
 ## Mateus Dayrell
-- 🏬 I’m currently working as an intern at <a target="_blank" href="https://unimontes.br/">Unimontes</a>
-- 📓 I’m currently learning typescript
+- 💻 I'm currently studying Computer Information Systems at <a target="_blank" href="https://unimontes.br/">Unimontes</a>
+- 🏬 I’m currently working as a web developer intern at <a target="_blank" href="https://unimontes.br/">Unimontes</a> with Laravel PHP
+- 📓 I’m currently learning JavaScript and TypeScript on my free time.
 - 🎖️ Advanced english
 <div align="center">
   <a href="https://github.com/mateusdayrell">
