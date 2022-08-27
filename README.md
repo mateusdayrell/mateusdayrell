@@ -1,6 +1,6 @@
 ## Mateus Dayrell
 - 💻 I'm currently studying Computer Information Systems at <a target="_blank" href="https://unimontes.br/">Unimontes</a> university.
-- 🏬 I’m currently working as a web developer intern at <a target="_blank" href="https://unimontes.br/">Unimontes</a> with Laravel PHP.
+- 🏬 I’m currently working as a web developer intern at <a target="_blank" href="https://unimontes.br/dti/#desenvolvimento">Unimontes</a> with Laravel PHP.
 - 📓 I’m currently learning JavaScript and NodeJs on my free time.
 - 🎖️ Advanced english.
 <div align="center">
