@@ -1,8 +1,8 @@
 ## Mateus Dayrell
-- 💻 I'm currently studying Computer Information Systems at <a target="_blank" href="https://unimontes.br/">Unimontes</a>
-- 🏬 I’m currently working as a web developer intern at <a target="_blank" href="https://unimontes.br/">Unimontes</a> with Laravel PHP
+- 💻 I'm currently studying Computer Information Systems at <a target="_blank" href="https://unimontes.br/">Unimontes</a> university.
+- 🏬 I’m currently working as a web developer intern at <a target="_blank" href="https://unimontes.br/">Unimontes</a> with Laravel PHP.
 - 📓 I’m currently learning JavaScript and NodeJs on my free time.
-- 🎖️ Advanced english
+- 🎖️ Advanced english.
 <div align="center">
   <a href="https://github.com/mateusdayrell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdayrell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
