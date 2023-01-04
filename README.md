@@ -20,7 +20,7 @@
   <img align="center" title="Tailwind" alt="mateus-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" title="Bootstrap" alt="mateus-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
 </div>
- 
+ <br>
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/mateus-dayrell-8069ba232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
