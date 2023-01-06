@@ -3,13 +3,13 @@
 - 🏬 I’m currently working as a web developer intern at <a target="_blank" href="https://unimontes.br/dti/#desenvolvimento">Unimontes</a> with Laravel PHP.
 - 📓 I’m currently learning JavaScript and Typescript on my free time.
 - 🎖️ Advanced english.
-<!--
+
 <div align="center">
   <a href="https://github.com/mateusdayrell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdayrell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdayrell&layout=compact&langs_count=7&theme=dark"/>
 </div> 
--->
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" title="JavaScript" alt="mateus-js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="ReactJS" alt="mateus-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
