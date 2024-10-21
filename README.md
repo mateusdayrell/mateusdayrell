@@ -1,7 +1,7 @@
 ## Mateus Dayrell
 - 💻 I'm currently studying Computer Information Systems at <a target="_blank" href="https://unimontes.br/">Unimontes</a> university.
-- 🏬 I’m currently working as a web developer intern at <a target="_blank" href="https://unimontes.br/dti/#desenvolvimento">Unimontes</a> with Laravel PHP.
-- 📓 I’m currently learning JavaScript and Typescript on my free time.
+- 🏬 I've been working as a full stack developer since 2021.
+- 📓 I’m currently learning clean architecture on my free time.
 - 🎖️ Advanced english.
 
 <!--
@@ -12,13 +12,18 @@
 </div> 
 -->
 <div style="display: inline_block" align="center"><br>
-  <img align="center" title="JavaScript" alt="mateus-js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="ReactJS" alt="mateus-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" title="ReactJS and React Native" alt="mateus-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" title="NodeJs" alt="mateus-node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="Laravel" alt="mateus-laravel" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" title="Laravel" alt="mateus-laravel" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" title="Dotnet" alt="mateus-dotnet" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" title="JavaScript" alt="mateus-js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="TypeScript" alt="mateus-ts" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" title="C#" alt="mateus-c#" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" title="PHP" alt="mateus-php" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" title="Docker" alt="mateus-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
   <img align="center" title="HTML" alt="mateus-html" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="mateus-css" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="Tailwind" alt="mateus-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" title="Tailwind" alt="mateus-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" title="Bootstrap" alt="mateus-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
 </div>
  <br>
